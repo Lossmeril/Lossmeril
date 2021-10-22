@@ -1,24 +1,24 @@
 ![lossmeril's campfire](https://lossmeril.aurora-studio.cz/wp-content/uploads/2020/12/Lossmerils-Campfire.png)
 
-# You stumbled upon Lossmeril's profile 
-<style>
-.menu{
-    color:red;
-}
-</style>
+# ![enter image description here](https://lossmeril.aurora-studio.cz/wp-content/uploads/2020/12/cropped-favicon-32x32.png) You stumbled upon Lossmeril's profile ![enter image description here](https://lossmeril.aurora-studio.cz/wp-content/uploads/2020/12/cropped-favicon-32x32.png)
 
-**Lossmeril:**  _"Welcome to my profile, weary traveller! Feel free to join me and rest here for a while..."_  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**<span class="menu">» Tell me more about yourself.<span>**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Do you have anything you can spare?  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» What about a round of Gwent?  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Can you play me "Ragnar The Red"?  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» I have to go now... 
 
-## ![enter image description here](https://lossmeril.aurora-studio.cz/wp-content/uploads/2020/12/cropped-favicon-32x32.png) Something about me 
-Just a hobbyist programmer...
+**Lossmeril:**  _"Welcome to my profile, weary traveller! Feel free to join me and rest here for a while..."_
+
+&nbsp;&nbsp;**» Tell me more about yourself.** :speech_balloon:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Do you have anything you can spare? :moneybag:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» What about a round of Gwent? :black_joker:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Can you play me "Ragnar The Red"? :musical_note:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» I have to go now... :x:<br />
+
+## Something about me 
+> Just a small town boy,
+> livin' in a lonely code...
+> He picked up programming as his hobby...
+
 Also videogame collector (retro and modern), book and film lover, history enthusiast, inferior musician, obnoxious Dungeon Master, occasional writer, memelord and more...  
-**Preorder your copy now!**
+:floppy_disk: **Preorder your copy now!** :floppy_disk:
   
 **» Gender:** Male (not going to change in near future)  
 **» Occupation:** Student (Filmmaking), Graphic designer, Videographer  
