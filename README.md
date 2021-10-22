@@ -13,9 +13,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» I have to go now... :x:<br />
 
 ## Something about me 
-> Just a small town boy,
-> livin' in a lonely code...
-> He picked up programming as his hobby...
+> Just a small town boy, <br />
+> livin' in a lonely code... <br />
+> He picked up programming as his hobby... <br />
 
 Also videogame collector (retro and modern), book and film lover, history enthusiast, inferior musician, obnoxious Dungeon Master, occasional writer, memelord and more...  
 :floppy_disk: **Preorder your copy now!** :floppy_disk:
